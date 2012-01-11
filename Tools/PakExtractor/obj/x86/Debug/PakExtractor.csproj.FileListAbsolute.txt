@@ -1,0 +1,9 @@
+C:\SiennaRift\Tools\PakExtractor\bin\Debug\PakExtractor.exe
+C:\SiennaRift\Tools\PakExtractor\bin\Debug\PakExtractor.pdb
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\PakExtractor.Extractor.resources
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\PakExtractor.Properties.Resources.resources
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\PakExtractor.exe
+C:\SiennaRift\Tools\PakExtractor\obj\x86\Debug\PakExtractor.pdb
