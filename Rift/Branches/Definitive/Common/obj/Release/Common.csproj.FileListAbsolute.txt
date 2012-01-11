@@ -1,0 +1,10 @@
+C:\New Svn dyox\Rift\Branches\Definitive\bin\Common.dll
+C:\New Svn dyox\Rift\Branches\Definitive\bin\Common.pdb
+C:\New Svn dyox\Rift\Branches\Definitive\Common\obj\Release\ResolveAssemblyReference.cache
+C:\New Svn dyox\Rift\Branches\Definitive\Common\obj\Release\Common.dll
+C:\New Svn dyox\Rift\Branches\Definitive\Common\obj\Release\Common.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\Common.dll
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\Common.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\Common\obj\Release\Common.dll
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\Common\obj\Release\Common.pdb

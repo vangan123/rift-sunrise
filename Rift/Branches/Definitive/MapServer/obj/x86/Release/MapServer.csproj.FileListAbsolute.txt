@@ -1,0 +1,10 @@
+C:\New Svn dyox\Rift\Branches\Definitive\bin\MapServer.exe
+C:\New Svn dyox\Rift\Branches\Definitive\bin\MapServer.pdb
+C:\New Svn dyox\Rift\Branches\Definitive\MapServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\New Svn dyox\Rift\Branches\Definitive\MapServer\obj\x86\Release\MapServer.exe
+C:\New Svn dyox\Rift\Branches\Definitive\MapServer\obj\x86\Release\MapServer.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\MapServer.exe
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\MapServer.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\MapServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\MapServer\obj\x86\Release\MapServer.exe
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\MapServer\obj\x86\Release\MapServer.pdb
