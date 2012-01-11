@@ -1,0 +1,27 @@
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\ResolveAssemblyReference.cache
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\Launcher.Form1.resources
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\ResGen.read.1.tlog
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\ResGen.write.1.tlog
+E:\SiennaRift - Kopie\Tools\Launcher\bin\Debug\Launcher.exe
+E:\SiennaRift - Kopie\Tools\Launcher\bin\Debug\Launcher.pdb
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\Launcher.exe
+E:\SiennaRift - Kopie\Tools\Launcher\obj\Debug\Launcher.pdb
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\Launcher.exe
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\Launcher.pdb
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\bin\Debug\Launcher.exe
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\bin\Debug\Launcher.pdb
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\ResGen.read.1.tlog
+C:\Users\CGRIEDER\Documents\Visual Studio 2010\Projects\Launcher\obj\Debug\ResGen.write.1.tlog
+C:\SiennaRift\Tools\Launcher\obj\Debug\Launcher.exe
+C:\SiennaRift\Tools\Launcher\obj\Debug\Launcher.pdb
+C:\SiennaRift\Tools\Launcher\bin\Debug\Launcher.exe
+C:\SiennaRift\Tools\Launcher\bin\Debug\Launcher.pdb
+C:\SiennaRift\Tools\Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\SiennaRift\Tools\Launcher\obj\Debug\Launcher.Form1.resources
+C:\SiennaRift\Tools\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\SiennaRift\Tools\Launcher\obj\Debug\ResGen.read.1.tlog
+C:\SiennaRift\Tools\Launcher\obj\Debug\ResGen.write.1.tlog
