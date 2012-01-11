@@ -1,0 +1,10 @@
+C:\New Svn dyox\Rift\Branches\Definitive\bin\CharacterServer.exe
+C:\New Svn dyox\Rift\Branches\Definitive\bin\CharacterServer.pdb
+C:\New Svn dyox\Rift\Branches\Definitive\CharacterServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\New Svn dyox\Rift\Branches\Definitive\CharacterServer\obj\x86\Release\CharacterServer.exe
+C:\New Svn dyox\Rift\Branches\Definitive\CharacterServer\obj\x86\Release\CharacterServer.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\CharacterServer.exe
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\CharacterServer.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\CharacterServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\CharacterServer\obj\x86\Release\CharacterServer.exe
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\CharacterServer\obj\x86\Release\CharacterServer.pdb

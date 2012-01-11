@@ -1,0 +1,12 @@
+C:\New Svn dyox\FrameWork\bin\Release\FrameWork.dll
+C:\New Svn dyox\FrameWork\bin\Release\FrameWork.pdb
+C:\New Svn dyox\FrameWork\bin\Release\MySql.Data.dll
+C:\New Svn dyox\FrameWork\obj\Release\ResolveAssemblyReference.cache
+C:\New Svn dyox\FrameWork\obj\Release\FrameWork.dll
+C:\New Svn dyox\FrameWork\obj\Release\FrameWork.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\FrameWork\bin\Release\FrameWork.dll
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\FrameWork\bin\Release\FrameWork.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\FrameWork\bin\Release\MySql.Data.dll
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\FrameWork\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\FrameWork\obj\Release\FrameWork.dll
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\FrameWork\obj\Release\FrameWork.pdb

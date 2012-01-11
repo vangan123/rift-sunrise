@@ -1,0 +1,10 @@
+C:\New Svn dyox\Rift\Branches\Definitive\bin\RealmServer.exe
+C:\New Svn dyox\Rift\Branches\Definitive\bin\RealmServer.pdb
+C:\New Svn dyox\Rift\Branches\Definitive\RealmServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\New Svn dyox\Rift\Branches\Definitive\RealmServer\obj\x86\Release\RealmServer.exe
+C:\New Svn dyox\Rift\Branches\Definitive\RealmServer\obj\x86\Release\RealmServer.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\RealmServer.exe
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\bin\RealmServer.pdb
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\RealmServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\RealmServer\obj\x86\Release\RealmServer.exe
+C:\Users\Anouar\Desktop\Nouveau dossier\rift\Rift\Branches\Definitive\RealmServer\obj\x86\Release\RealmServer.pdb
